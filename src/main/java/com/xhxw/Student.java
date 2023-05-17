@@ -1,9 +1,14 @@
 package com.xhxw;
 
+/**
+ * @author Zalmant
+ */
 public class Student {
-    private int age;
+
     private String name;
-    private String sex;
     private String password;
+    private String gender;
+    private int age;
     private String address;
+    private String telephone;
 }
